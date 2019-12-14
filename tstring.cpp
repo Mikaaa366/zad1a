@@ -1,4 +1,4 @@
-#include<tstring.h>
+#include"tstring.h"
 #include<iostream>
 
 using namespace std;
