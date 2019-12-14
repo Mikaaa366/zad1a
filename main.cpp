@@ -7,4 +7,6 @@ int main(){
     TString s3 = s2;
    s3= "alfa beta";
    s3=s2;
+    TString s4=std::move(s2);
+    
 }
